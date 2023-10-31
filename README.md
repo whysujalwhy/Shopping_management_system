@@ -1,5 +1,6 @@
 ## DEVOPS PROJECT 3:-
 **A shopping management system**
+
 ![image] (https://github.com/Pratiksha-25/Shopping_management_system/blob/main/banner.png)
 
 ## Introduction
